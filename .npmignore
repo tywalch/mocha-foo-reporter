@@ -1,0 +1,11 @@
+node_modules/
+*.log
+*.tgz
+.nyc_output/
+.vscode/
+coverage/
+test/
+*.md
+*.sh
+.idea/
+src/*.ts
